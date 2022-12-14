@@ -1,8 +1,9 @@
 # BME3053C-Final-Project-Input-Team-Name-
 Group Members: Matthew Erk, Sydney Irwin, Caleb Leimer, and Alejandro Machado
 
-High No Lung Opacity Code:
+No Lung Opacity Code:
 
+This code evaluates what sections of the lung are opaque or not. It is used to help physicians determine if lungs that are marked as "not normal" have the potential to be pnemonia or a different respiratory disease. The end result is an overlay of the xray of the lung and a colored in portion of a lung with no opacity; this essentially shows the area of the lung that is healthy. 
 
 Machine Learning:
 
